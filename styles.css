@@ -4,6 +4,7 @@ body {
      justify-content: center;
      align-items: center;
      background-color: black;
+     height: max-content;
 }
 .container{
 text-align: center;
